@@ -1,0 +1,10 @@
+[
+  {
+    "url": "/atbash",
+    "method": "POST",
+    "stats": {
+      "total_requests_received": 12,
+      "avg_handling_time": 10.4
+    }
+  }
+]
